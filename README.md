@@ -21,8 +21,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/mcloughlan/personal-site/refs/heads/main/assets/images/favicon.png" width="30" alt="Favicon">
       </a>
       <br>
-      My name is <strong>Daljeet Singh</strong>.
-      <br>
       I'm a Computer/IT Engineering & Computer Science student from India.
       <br>
       <br>
