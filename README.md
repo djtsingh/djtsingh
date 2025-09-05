@@ -1,4 +1,3 @@
-## Hi there, I'm Daljeet Singh 👋
 <!--
 **djtsingh/djtsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +16,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://www.daljeetsingh.me">
-        <img src="https://raw.githubusercontent.com/mcloughlan/personal-site/refs/heads/main/assets/images/favicon.png" width="30" alt="Favicon">
-      </a>
-      <br>
+    <h3>Hey there, I'm Daljeet Singh 👋</h3>
       I'm a Computer/IT Engineering & Computer Science student from India.
       <br>
       <br>
