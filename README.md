@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <br>
 <table align="center">
   <tr>
@@ -31,15 +30,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
--->
-<div align="center">
-  <!-- The `align="center"` attribute on the div centers the content. -->
-  
-  <img 
-    src="https://gitstats-neon.vercel.app/api?username=djtsingh&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=e59b4f&icon_color=48ACF0&bg_color=00000000&show=prs_merged" 
-    alt="Daljeet Singh's GitHub Stats" 
-    width="48%"
-  />
   
   <img 
     src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif" 
