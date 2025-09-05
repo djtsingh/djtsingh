@@ -30,11 +30,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-  
-  <img 
-    src="https://media1.tenor.com/m/l_tQP6gd9AYAAAAd/hbo-watching.gif" 
-    alt="Watching GIF"
-    width="48%"
-  />
-  
-</div>
