@@ -1,7 +1,4 @@
-## Hi there 👋
-Hello World!
-
-My name is Daljeet Singh.
+## Hi there, I'm Daljeet Singh 👋
 <!--
 **djtsingh/djtsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌟 GitHub Stats
+
+![Daljeet's GitHub stats](https://gitstats-neon.vercel.app/api?username=djtsingh&show_icons=true&theme=radical)
