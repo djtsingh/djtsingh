@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves turning complex problems into elegant solutions. Whether it's crafting pixel-perfect UIs or architecting robust backend systems, I thrive on building products that make a difference.
+🥂 📈 🐍 🔌
 
 ```javascript
 const djtsingh = {
