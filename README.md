@@ -83,12 +83,29 @@ const djtsingh = {
 -->
 ## 🔥 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtsingh&repo=janus&theme=tokyonight)](https://github.com/djtsingh/Janus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtsingh&repo=market-prediction-2025&theme=tokyonight)](https://github.com/djtsingh/Market-Prediction-2025)
-
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Janus</h3>
+<div align="center">  
+<a href="https://github.com/djtsingh/janus" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">AI Agent</h3>
+<div align="center">  
+<a href="https://github.com/djtsingh/#" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
+</div>
+</td>
+</tr>
+
+</table>
 
 ## 🎯 Current Goals
 
