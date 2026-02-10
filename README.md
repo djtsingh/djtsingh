@@ -81,7 +81,7 @@ const djtsingh = {
   <img src="https://github-profile-trophy.vercel.app/?username=djtsingh&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 -->
-## 🔥 Featured Projects
+<!--## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ const djtsingh = {
 </tr>
 
 </table>
-
+-->
 ## 🎯 Current Goals
 
 - 🔨 Building production-ready applications with cutting-edge tech
