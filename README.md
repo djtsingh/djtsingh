@@ -13,7 +13,7 @@
   <tr>
     <td>
       <img 
-        src="https://gitstats-neon.vercel.app/api?username=djtsingh&show_icons=true&cache_seconds=1500&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=e59b4f&icon_color=48ACF0&bg_color=00000000&show=prs_merged" 
+        src="https://gitstats-neon.vercel.app/api?username=djtsingh&show_icons=true&cache_seconds=1470&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=e59b4f&icon_color=48ACF0&bg_color=00000000&show=prs_merged" 
         alt="Daljeet Singh's GitHub Stats"
       />
     </td>
