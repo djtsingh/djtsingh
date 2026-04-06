@@ -36,11 +36,11 @@
 ```javascript
 const djtsingh = {
     pronouns: "he/him",
-    location: "Thāne, Maharashtra, IN",
-    currentFocus: ["Web Development", "Cloud Architecture", "AI/ML"],
+    location: "Mumbai, Maharashtra, IN",
+    currentFocus: ["Algorithms", "Cloud Architecture", "AI/ML"],
     learning: ["Advanced System Design", "Kubernetes", "Rust"],
     funFact: "I debug with console.log",
-    askMeAbout: ["web dev", "tech", "cricket", "coffee"]
+    askMeAbout: [tech", "cricket", "coffee"]
 };
 ```
 
@@ -122,7 +122,7 @@ const djtsingh = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djtsingh)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djtsingh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://daljeetsingh.me)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.daljeetsingh.me/connect)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:git@daljeetsingh.me)
 
 </div>
