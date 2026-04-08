@@ -40,7 +40,7 @@ const djtsingh = {
     currentFocus: ["Algorithms", "Cloud Architecture", "AI/ML"],
     learning: ["Advanced System Design", "Kubernetes", "Rust"],
     funFact: "I debug with console.log",
-    askMeAbout: [tech", "cricket", "coffee"]
+    askMeAbout: ["tech", "cricket", "coffee"]
 };
 ```
 
